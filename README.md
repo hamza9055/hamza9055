@@ -1,5 +1,5 @@
 | [![Hamza Hamid](https://img.shields.io/badge/HAMZA-HAMID-<COLOR>.svg)] | [![FrontEnd Developer](https://img.shields.io/badge/FrontEnd-Developer-red.svg)] | [![HTML5](https://img.shields.io/badge/HTML5-orange.svg)]
-| [![CSS](https://img.shields.io/badge/HTML5-blue.svg)] | [![JavaScript](https://img.shields.io/badge/JavaScript-yellow.svg)] | [![React](https://img.shields.io/badge/React-skyblue.svg)] | 
+| [![CSS](https://img.shields.io/badge/CSS-blue.svg)] | [![JavaScript](https://img.shields.io/badge/JavaScript-yellow.svg)] | [![React](https://img.shields.io/badge/React-skyblue.svg)] | 
 
 <b>Hi there,I'm Hamza Hamid</b>👋<br>
 
