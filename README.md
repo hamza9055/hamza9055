@@ -10,7 +10,6 @@ I'm a Software Engineer based in Lahore, Pakistan.<br>
 ⚙️ I use daily: HTML, CSS, Javascript, ReactJS<br>
 🌱 I’m currently learning Backend<br>
 👯 I’m looking forward to working as A frontend Developer<br>
-🤔 I’m looking for help with my master's degree in CS<br>
 
 📫 How to reach me: ...
 <br>
