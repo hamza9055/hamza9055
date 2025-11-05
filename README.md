@@ -37,19 +37,32 @@ My focus is on creating **intuitive interfaces** and **robust backend systems** 
 
 ---
 
-### 📫 Connect with Me
-
-<p align="left">
-  <a href="https://twitter.com/hamzahamid09" target="_blank">
-    <img src="https://img.shields.io/badge/-@hamzahamid09-%231DA1F2?style=flat-square&logo=twitter&logoColor=white"/>
-  </a>
-  <a href="https://github.com/hamza9055" target="_blank">
-    <img src="https://img.shields.io/badge/-@hamza9055-%23181717?style=flat-square&logo=github"/>
-  </a>
-  <a href="https://www.linkedin.com/in/hamza-hamid-864a42185/" target="_blank">
-    <img src="https://img.shields.io/badge/-Hamza%20Hamid-blue?style=flat-square&logo=Linkedin&logoColor=white"/>
+### 🌐 Portfolio  
+<p align="center">
+  <a href="https://hamzahamidportfolio.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/My%20Portfolio-Visit%20Now-green?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio Link"/>
   </a>
 </p>
+
+---
+
+### 📫 Connect with Me
+
+<p align="center">
+  <a href="https://twitter.com/hamzahamid09" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-@hamzahamid09-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+  <a href="https://github.com/hamza9055" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-@hamza9055-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/hamza-hamid-864a42185/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Hamza%20Hamid-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://codepen.io/hamza9055" target="_blank">
+    <img src="https://img.shields.io/badge/CodePen-Hamza%20Hamid-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen"/>
+  </a>
+</p>
+
 
 ---
 
