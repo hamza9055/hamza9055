@@ -69,7 +69,7 @@ My focus is on creating **intuitive interfaces** and **robust backend systems** 
 ### ⚡ GitHub Stats
 
 <p align="center">
-  <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=hamza9055&theme=tokyonight&hide_border=false" alt="GitHub Streak Stats" /> -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hamza9055&theme=tokyonight&hide_border=false" alt="GitHub Streak Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamza9055&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
   <!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=hamza9055&theme=tokyo-night&hide_border=false" alt="GitHub Activity Graph" /> -->
   <!-- <img src="https://github-profile-trophy.vercel.app/?username=hamza9055&theme=tokyonight" alt="GitHub Activity Graph" /> -->
